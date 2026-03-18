@@ -1,4 +1,4 @@
-# download site
+# goto site
 ```
 https://valkey.io/
 ```

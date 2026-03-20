@@ -54,3 +54,7 @@ sudo apt install -y clangd          \
                     clang-format    \
                     libsystemd-dev
 ```
+# run below command 
+```
+./build.sh
+```

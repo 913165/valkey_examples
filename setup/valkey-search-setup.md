@@ -22,17 +22,19 @@ cp bin/valkey-cli /usr/local/bin/
 ```
 
 
-# git clone below site
-
-```
- git clone https://github.com/valkey-io/valkey-search.git
-```
 
 
 # check valkey version
 ```
 valkey-server --version
 ```
+
+# git clone below site
+
+```
+ git clone https://github.com/valkey-io/valkey-search.git
+```
+
 https://github.com/valkey-io/valkey-search/tree/main?tab=readme-ov-file#build-instructions
 
 ```

@@ -21,7 +21,32 @@ cp bin/valkey-server /usr/local/bin/
 cp bin/valkey-cli /usr/local/bin/
 ```
 
+
+# git clone below site
+
+```
+ git clone https://github.com/valkey-io/valkey-search.git
+```
+
+
 # check valkey version
 ```
 valkey-server --version
+```
+https://github.com/valkey-io/valkey-search/tree/main?tab=readme-ov-file#build-instructions
+
+```
+Install basic tools
+Ubuntu / Debian
+sudo apt update
+sudo apt install -y clangd          \
+                    build-essential \
+                    g++             \
+                    cmake           \
+                    libgtest-dev    \
+                    ninja-build     \
+                    libssl-dev      \
+                    clang-tidy      \
+                    clang-format    \
+                    libsystemd-dev
 ```

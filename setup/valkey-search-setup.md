@@ -62,4 +62,5 @@ sudo apt install -y clangd          \
 
 ```
 cd  /home/tinumistry/valkey-9.0.3-noble-x86_64/valkey-search/.build-release
+valkey-server --loadmodule /home/tinumistry/valkey-9.0.3-noble-x86_64/valkey-search/.build-release/libsearch.so
 ```

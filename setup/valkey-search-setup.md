@@ -58,3 +58,8 @@ sudo apt install -y clangd          \
 ```
 ./build.sh
 ```
+# after completing build
+
+```
+cd  /home/tinumistry/valkey-9.0.3-noble-x86_64/valkey-search/.build-release
+```

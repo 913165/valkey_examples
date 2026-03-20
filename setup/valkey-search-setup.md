@@ -38,9 +38,10 @@ cd valkey-search
 
 https://github.com/valkey-io/valkey-search/tree/main?tab=readme-ov-file#build-instructions
 
-```
+
 Install basic tools
 Ubuntu / Debian
+```
 sudo apt update
 sudo apt install -y clangd          \
                     build-essential \

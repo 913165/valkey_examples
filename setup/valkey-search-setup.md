@@ -58,14 +58,14 @@ sudo apt install -y clangd          \
 ```
 ./build.sh
 ```
-# after completing build
+# After completing build
 
 ```
 cd  /home/tinumistry/valkey-9.0.3-noble-x86_64/valkey-search/.build-release
 valkey-server --loadmodule /home/tinumistry/valkey-9.0.3-noble-x86_64/valkey-search/.build-release/libsearch.so
 ```
 
-# after done open another terminal and goti site and try  Step 3: Create a Vector Index
+# After above, open another terminal and goto site and try  Step 3: Create a Vector Index
 https://github.com/valkey-io/valkey-search/blob/main/QUICK_START.md
 
 ```

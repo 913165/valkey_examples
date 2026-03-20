@@ -32,7 +32,8 @@ valkey-server --version
 # git clone below site
 
 ```
- git clone https://github.com/valkey-io/valkey-search.git
+git clone https://github.com/valkey-io/valkey-search.git
+cd valkey-search
 ```
 
 https://github.com/valkey-io/valkey-search/tree/main?tab=readme-ov-file#build-instructions

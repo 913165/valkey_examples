@@ -1,4 +1,6 @@
 # valkey-search-setup.md
+Quick Start
+https://github.com/valkey-io/valkey-search/blob/main/QUICK_START.md
 # goto site
 ```
 https://valkey.io/

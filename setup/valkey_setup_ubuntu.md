@@ -22,3 +22,15 @@ cp bin/valkey-cli /usr/local/bin/
 ```
 valkey-server --version
 ```
+
+# to start valkey server just execute below command
+
+``
+valkey-server 
+```
+
+# to start with valkey-cli go to another terminal and try below command
+
+```
+valkey-cli
+```

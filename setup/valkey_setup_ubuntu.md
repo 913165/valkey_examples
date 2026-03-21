@@ -25,7 +25,7 @@ valkey-server --version
 
 # to start valkey server just execute below command
 
-``
+```
 valkey-server 
 ```
 

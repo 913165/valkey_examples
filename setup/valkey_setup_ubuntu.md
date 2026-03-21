@@ -30,7 +30,6 @@ valkey-server
 ```
 
 # to start with valkey-cli go to another terminal and try below command
-
 ```
 valkey-cli
 ```
